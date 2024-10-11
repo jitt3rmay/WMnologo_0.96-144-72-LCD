@@ -1,2 +1,2 @@
-# AUM_LPM_VIEW_ZMK
-单独提取AUM的LPM_VIEW键盘代码,对其进行优化
+# ZMK固件 0.96 144*72 LCD
+可驱动固件
